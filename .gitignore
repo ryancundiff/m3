@@ -1,0 +1,6 @@
+# Visual Studio Code folder
+.vscode
+
+# CMake
+CMakeFiles/
+build/
