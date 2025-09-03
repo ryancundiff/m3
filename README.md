@@ -147,7 +147,8 @@ cd .m3
 
 5. From here, you can create *profile* folders and fill it with your mods.
 
-> [!TIP] You can also open `.m3` in your file manager:
+> [!TIP]
+> You can also open `.m3` in your file manager:
 > - **Linux:** `xdg-open $HOME/.m3`
 > - **macOS:** `open $HOME/.m3`
 
