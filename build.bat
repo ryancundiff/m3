@@ -9,7 +9,7 @@ if not exist build (
 )
 
 REM Run CMake to configure and build.
-cmake -S . -B build
+cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
 cmake --build build --config Release
 
 pause
