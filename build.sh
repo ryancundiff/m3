@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Build script for Linux/MacOS.
+# Build script for Linux/macOS.
 # Create a build directory and run CMake.
 
 set -e
